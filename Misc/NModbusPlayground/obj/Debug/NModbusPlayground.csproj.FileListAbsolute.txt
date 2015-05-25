@@ -1,0 +1,10 @@
+E:\Joachim\Developer\PLCSimHack\Misc\NModbusPlayground\bin\Debug\NModbusPlayground.exe.config
+E:\Joachim\Developer\PLCSimHack\Misc\NModbusPlayground\bin\Debug\NModbusPlayground.exe
+E:\Joachim\Developer\PLCSimHack\Misc\NModbusPlayground\bin\Debug\NModbusPlayground.pdb
+E:\Joachim\Developer\PLCSimHack\Misc\NModbusPlayground\bin\Debug\NModbus4.dll
+E:\Joachim\Developer\PLCSimHack\Misc\NModbusPlayground\bin\Debug\NModbus4.xml
+E:\Joachim\Developer\PLCSimHack\Misc\NModbusPlayground\obj\Debug\NModbusPlayground.csprojResolveAssemblyReference.cache
+E:\Joachim\Developer\PLCSimHack\Misc\NModbusPlayground\obj\Debug\NModbusPlayground.exe
+E:\Joachim\Developer\PLCSimHack\Misc\NModbusPlayground\obj\Debug\NModbusPlayground.pdb
+E:\Joachim\Developer\PLCSimHack\Misc\NModbusPlayground\bin\Debug\Core.dll
+E:\Joachim\Developer\PLCSimHack\Misc\NModbusPlayground\bin\Debug\Core.pdb

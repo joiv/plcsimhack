@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{8E44D134-3A04-4EC2-A064-71099FC1DE07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{172C5174-062B-4833-928F-9EF4D1466D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NModbusPlayground", "Misc\NModbusPlayground\NModbusPlayground.csproj", "{FAEE0AC7-E384-4230-BEE7-7E3B1D38EEE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DeviceIntegration", "DeviceIntegration", "{A63150B8-B409-46FA-86EE-0361B8A4256F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusDeviceDriver", "DeviceIntegration\ModbusDeviceDriver\ModbusDeviceDriver.csproj", "{D6DF24A2-E93B-48D2-A576-D1B32943EEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E44D134-3A04-4EC2-A064-71099FC1DE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E44D134-3A04-4EC2-A064-71099FC1DE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E44D134-3A04-4EC2-A064-71099FC1DE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E44D134-3A04-4EC2-A064-71099FC1DE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEE0AC7-E384-4230-BEE7-7E3B1D38EEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEE0AC7-E384-4230-BEE7-7E3B1D38EEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEE0AC7-E384-4230-BEE7-7E3B1D38EEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEE0AC7-E384-4230-BEE7-7E3B1D38EEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DF24A2-E93B-48D2-A576-D1B32943EEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DF24A2-E93B-48D2-A576-D1B32943EEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DF24A2-E93B-48D2-A576-D1B32943EEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DF24A2-E93B-48D2-A576-D1B32943EEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FAEE0AC7-E384-4230-BEE7-7E3B1D38EEE8} = {172C5174-062B-4833-928F-9EF4D1466D16}
+		{D6DF24A2-E93B-48D2-A576-D1B32943EEEE} = {A63150B8-B409-46FA-86EE-0361B8A4256F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.beijerelectronics.com:8080/tfs/hmidev
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Core\\Core.csproj
+		SccProjectName1 = Core
+		SccLocalPath1 = Core
+		SccProjectUniqueName2 = Misc\\NModbusPlayground\\NModbusPlayground.csproj
+		SccProjectTopLevelParentUniqueName2 = PLCSimHack.sln
+		SccProjectName2 = Misc/NModbusPlayground
+		SccLocalPath2 = Misc\\NModbusPlayground
+		SccProjectUniqueName3 = DeviceIntegration\\ModbusDeviceDriver\\ModbusDeviceDriver.csproj
+		SccProjectTopLevelParentUniqueName3 = PLCSimHack.sln
+		SccProjectName3 = DeviceIntegration/ModbusDeviceDriver
+		SccLocalPath3 = DeviceIntegration\\ModbusDeviceDriver
+	EndGlobalSection
+EndGlobal

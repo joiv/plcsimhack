@@ -1,0 +1,11 @@
+E:\Joachim\Developer\PLCSimHack\DeviceIntegration\ModbusDeviceDriver\bin\Debug\ModbusDeviceDriver.dll
+E:\Joachim\Developer\PLCSimHack\DeviceIntegration\ModbusDeviceDriver\bin\Debug\ModbusDeviceDriver.pdb
+E:\Joachim\Developer\PLCSimHack\DeviceIntegration\ModbusDeviceDriver\bin\Debug\Core.dll
+E:\Joachim\Developer\PLCSimHack\DeviceIntegration\ModbusDeviceDriver\bin\Debug\NModbus4.dll
+E:\Joachim\Developer\PLCSimHack\DeviceIntegration\ModbusDeviceDriver\bin\Debug\Core.pdb
+E:\Joachim\Developer\PLCSimHack\DeviceIntegration\ModbusDeviceDriver\bin\Debug\NModbus4.xml
+E:\Joachim\Developer\PLCSimHack\DeviceIntegration\ModbusDeviceDriver\obj\Debug\ModbusDeviceDriver.csprojResolveAssemblyReference.cache
+E:\Joachim\Developer\PLCSimHack\DeviceIntegration\ModbusDeviceDriver\obj\Debug\ModbusDeviceDriver.dll
+E:\Joachim\Developer\PLCSimHack\DeviceIntegration\ModbusDeviceDriver\obj\Debug\ModbusDeviceDriver.pdb
+E:\Joachim\Developer\PLCSimHack\Output\ModbusDeviceDriver.dll
+E:\Joachim\Developer\PLCSimHack\Output\ModbusDeviceDriver.pdb

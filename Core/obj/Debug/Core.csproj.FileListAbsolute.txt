@@ -1,0 +1,5 @@
+E:\Joachim\Developer\PLCSimHack\Core\bin\Debug\Core.dll
+E:\Joachim\Developer\PLCSimHack\Core\bin\Debug\Core.pdb
+E:\Joachim\Developer\PLCSimHack\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\Joachim\Developer\PLCSimHack\Core\obj\Debug\Core.dll
+E:\Joachim\Developer\PLCSimHack\Core\obj\Debug\Core.pdb
