@@ -78,7 +78,7 @@ namespace NModbusPlayground
         void RampFunction()
         {
             var tag = new DeviceTag<Int32>();
-            var binding = new 
+             
             while(isRampRunning)
             {
 

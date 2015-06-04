@@ -113,9 +113,13 @@ namespace ModbusDeviceDriver
                 data = ConvertDeviceTagValue();
             else
                 data = ConvertStringDeviceTagValue();
-            for (int i = 0; i < data.Count; ++i)
+
+            lock (m_DataStore.SyncRoot)
             {
-                m_DataStore.HoldingRegisters[m_DataStoreArrayPosition + i] = data[i];
+                for (int i = 0; i < data.Count; ++i)
+                {
+                    m_DataStore.HoldingRegisters[m_DataStoreArrayPosition + i] = data[i];
+                }
             }
         }
     }
